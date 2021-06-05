@@ -1,4 +1,4 @@
-# AD2breadboardbreakout
+# AD2 Breadboard Breakout
 
 ![image](https://user-images.githubusercontent.com/21117916/120884471-49df3d80-c598-11eb-84ae-f0b18ecaa2f0.png)
 
