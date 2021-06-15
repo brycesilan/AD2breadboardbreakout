@@ -9,7 +9,7 @@ This is a breadboard breakout for the Analog Discovery 2™ from Digitlent. Plea
 I ordered my boards from JLC PCB with their 5 2 Layer Boards for $2.
 
 ![image3](https://user-images.githubusercontent.com/21117916/121977837-c06c0000-cd3b-11eb-8d44-f2b45e4469be.jpg)
-![20210614_181246](https://user-images.githubusercontent.com/21117916/121979870-d8458300-cd3f-11eb-9bb7-c6888e7f46a8.jpg)
+![20210614_181246](https://user-images.githubusercontent.com/21117916/121979942-f14e3400-cd3f-11eb-93a7-c0234ee337d6.jpg)
 
 
 
